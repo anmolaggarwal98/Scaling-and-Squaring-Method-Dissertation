@@ -24,6 +24,9 @@ actual report is not attached yet. Once it is assessed, we will upload it here (
 
 An interactive jupyter notebooks can be seen here (in HTML): 
 * ContourPlots: https://htmlpreview.github.io/?https://github.com/anmolaggarwal98/Scaling-and-Squaring-Method-Dissertation/blob/master/Code/Contour_plots.html
+* Error Analysis Lines: https://htmlpreview.github.io/?https://github.com/anmolaggarwal98/Scaling-and-Squaring-Method-Dissertation/blob/master/Code/Error_Analysis_curves.html
+* Matrix Exponential Approximation with SSM: https://htmlpreview.github.io/?https://github.com/anmolaggarwal98/Scaling-and-Squaring-Method-Dissertation/blob/master/Code/Matrix_error_analysis.html
+* Oral Presentation https://htmlpreview.github.io/?https://github.com/anmolaggarwal98/Scaling-and-Squaring-Method-Dissertation/blob/master/Code/Presentation.html
 
 Please feel free to download the code and run it on your local machine so you can tweak different parameters. 
 
