@@ -28,6 +28,8 @@ An interactive jupyter notebooks can be seen here (in HTML):
 * Matrix Exponential Approximation with SSM: https://htmlpreview.github.io/?https://github.com/anmolaggarwal98/Scaling-and-Squaring-Method-Dissertation/blob/master/Code/Matrix_error_analysis.html
 * Oral Presentation https://htmlpreview.github.io/?https://github.com/anmolaggarwal98/Scaling-and-Squaring-Method-Dissertation/blob/master/Code/Presentation.html
 
+It is possible that these link do not run since I have to make everything anonymous. Hence, the jupyter notebook files are also available in folder named `Code`. There respective graphs are available in the folder `plots` which might also not open because of the same anonymous reason. 
+
 Please feel free to download the code and run it on your local machine so you can tweak different parameters. 
 
 We hope you enjoy it. 
