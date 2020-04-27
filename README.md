@@ -22,6 +22,9 @@ We focus particularly on __Scaling and Squaring__ Method based on __Composite Ta
 original research especially in the later sections of the dissertation. All the code related to the report is provided in this repository, however, the 
 actual report is not attached yet. Once it is assessed, we will upload it here (if permission is given). 
 
+An interactive jupyter notebooks can be seen here (in HTML): 
+* ContourPlots: https://htmlpreview.github.io/?https://github.com/anmolaggarwal98/Scaling-and-Squaring-Method-Dissertation/blob/master/Code/Contour_plots.html
+
 Please feel free to download the code and run it on your local machine so you can tweak different parameters. 
 
 We hope you enjoy it. 
