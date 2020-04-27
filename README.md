@@ -24,6 +24,5 @@ actual report is not attached yet. Once it is assessed, we will upload it here (
 
 Please feel free to download the code and run it on your local machine so you can tweak different parameters. 
 
-We hope yo enjoy it. 
+We hope you enjoy it. 
 
-Candidate 1040706
