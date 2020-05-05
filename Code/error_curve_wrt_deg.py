@@ -68,7 +68,7 @@ def error_curve_deg(R = 20, max_m = 20, max_s=4,type = 'rel', no_of_pts = 1000, 
 
     if saveimage:
         # creates a folder plots to save  graphs in the folder
-        path = r'C:\Users\Anmol\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\line_graphs'
+        path = r'C:\Users\xxxxx\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\line_graphs'
         if not os.path.exists(path):
             os.mkdir(path)
             print('Folder `plots/line_graphs` is created\n')
