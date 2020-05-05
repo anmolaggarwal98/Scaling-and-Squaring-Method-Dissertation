@@ -103,7 +103,7 @@ def experiment_taylor(S=[3], M=[18] , n = 400, saveimage = True):
 
     if saveimage:
         # creates a folder plots to save  graphs in the folder
-        path = r'C:\Users\Anmol\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\segmentplots'
+        path = r'C:\Users\xxxxx\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\segmentplots'
         if not os.path.exists(path):
             os.mkdir(path)
             print('Folder `plots/segmentplots` is created\n')
