@@ -162,7 +162,7 @@ tried to keep the degree of both polynomial the same for a fair comparison.',fon
         fig.text(0.5,0.12, analyses, horizontalalignment='center', verticalalignment='bottom',fontsize=15)
 
     if saveimage:
-        path = r'C:\Users\Anmol\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\pade_comparison'
+        path = r'C:\Users\xxxxx\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\pade_comparison'
         plt.savefig(path + f'\group_comp_s_{s}_m_{m/2}_k_{k}.pdf', format='pdf', dpi=500)
     plt.show()
 
