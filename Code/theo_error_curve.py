@@ -6,12 +6,15 @@ from math import pow as power
 import os
 
 def theo_error_curve(m=80,R = 20,s = 0,saveimage=False):
-
+    '''It computes the actual error and theoretical error in relative sense
+        for a fixed m,s and R'''
+    print(f'm:{m}, s:{s} and R:{R}')
     M = m
     f_m = [((-R)**k/(2**(k*s)*factorial(k))) for k in range(0,M+1)]
 
     Error = np.zeros(M+1)
 
+    # theoretical error 
     for idx,m in enumerate(np.arange(M+1)):
         error = (power(R,m+1)*np.exp(R/(2**s)))/(power(2,s*m)*factorial(m+1))
         Error[idx] = error
