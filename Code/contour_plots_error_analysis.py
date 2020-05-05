@@ -89,7 +89,7 @@ def experiment_taylor(s=3, m=20 , n = 500, a = -70, b = 70, saveimage = True):
 
     if saveimage:
         # creates a folder plots to save  graphs in the folder
-        path = r'C:\Users\Anmol\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\contourplots'
+        path = r'C:\Users\xxxxx\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\contourplots'
         if not os.path.exists(path):
             os.mkdir(path)
             print('Folder `plots/contourplots` is created\n')
