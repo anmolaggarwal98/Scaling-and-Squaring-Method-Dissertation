@@ -43,7 +43,7 @@ def theo_error_curve(m=80,R = 20,s = 0,saveimage=False):
 
     if saveimage:
         # creates a folder plots to save  graphs in the folder
-        path = r'C:\Users\Anmol\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\theoretical_plots'
+        path = r'C:\Users\xxxxx\OneDrive - Nexus365\Oxford Masters\Modules\Dissertation\Code\Candidate_no_1040706\plots\theoretical_plots'
         if not os.path.exists(path):
             os.mkdir(path)
             print('Folder `plots/theoretical_plots` is created\n')
